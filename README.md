@@ -1,5 +1,10 @@
 # git_new
 
-new new rev
++++++++ -------- dz
+izmeneniy
 
-8
+super puper ------
+
+dz2.1 555 vipolnenie
+
+7
