@@ -1,6 +1,6 @@
 # git_new
 
-+++++++ --------
++++++++ -------- dz
 izmeneniy
 
 super puper ------
