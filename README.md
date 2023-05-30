@@ -1,10 +1,5 @@
 # git_new
 
-+++++++ --------
-izmeneniy
+clear
 
-super puper ------
-
-dz2.1 555 vipolnenie
-
-7
+8
