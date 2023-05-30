@@ -3,6 +3,6 @@
 +++++++ --------
 izmeneniy
 
-super ++++
+super puper ------
 
-4
+5
